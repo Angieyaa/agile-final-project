@@ -1,0 +1,57 @@
+# 🚀 Sprint Simulation
+
+## 📅 Sprint Milestone  
+**Name:** Sprint 1  
+**Duration:** 2 weeks (2024-06-01 to 2024-06-14)
+
+---
+
+## 📝 Sprint Planning  
+**Top 4 User Stories (contoh):**
+1. As a user, I need to register an account so that I can log in.
+2. As a user, I need to log in so that I can access my dashboard.
+3. As a user, I need to view product listings so that I can select items.
+4. As a user, I need to add products to my cart so that I can buy them.
+
+**Actions:**
+- Tambahkan ke Sprint Milestone.
+- Pindahkan ke Sprint Backlog.
+- Beri estimasi Story Points:
+  - Story 1: 5 pts
+  - Story 2: 3 pts
+  - Story 3: 3 pts
+  - Story 4: 2 pts
+
+---
+
+## 🛠️ Sprint Simulation  
+
+1. **Assign** story #1 ke diri sendiri.
+2. **Move to** `In Progress`.
+
+3. Setelah selesai, **move to** `Review/QA`.
+4. Ambil story #2 dari `Sprint Backlog`, **assign ke diri sendiri**.
+5. **Move to** `In Progress`.
+
+6. Move story di `Review/QA` ke `Done`.
+7. Move story di `In Progress` ke `Review/QA`.
+8. Ambil story #3 dari `Sprint Backlog`, **assign ke diri sendiri**.
+9. **Move to** `In Progress`.
+
+10. Move story di `Review/QA` ke `Done`.
+11. Biarkan story di `In Progress` tetap di sana (menandakan sprint berakhir dengan story yang belum selesai).
+
+---
+
+## 📊 Burndown Chart  
+**Pastikan burndown chart di Sprint milestone/project insights sudah tampil.**  
+Story points berkurang sesuai progress di atas.
+
+---
+
+## 📎 Kanban Board URL  
+👉 [Link ke kanban board kamu]
+
+---
+
+## ✅ Done!
